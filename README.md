@@ -1,6 +1,6 @@
 # Upinel/Get2Post
 
-Converts GET requests to POST and forwards data accordingly.
+A simple PHP script that Converts GET requests to POST and forwards data accordingly.
 
 # Description
 
